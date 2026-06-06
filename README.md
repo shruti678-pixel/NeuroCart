@@ -21,7 +21,7 @@ NeuroCart is an AI-driven platform that helps students discover the best learnin
 - AI: Gemini API
 
 ##  Live Demo
-https://bolt.new/p/67591005
+https://neurocart-ai-student-f0e5.bolt.host/
 
 ---
 Made with LOVE for Hackathon
